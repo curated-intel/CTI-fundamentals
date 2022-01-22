@@ -13,8 +13,10 @@ A collection of papers, blogs, and resources that make up the quintessential asp
 
 ### `Adversary Intelligence`
 
+| Authour | Description | Resource URL |
 | --- | --- | --- |
 | [Mandiant](https://www.mandiant.com/) | Mandiant's unprecedented report linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). | [mandiant-apt1-report.pdf](https://www.mandiant.com/resources/apt1-exposing-one-of-chinas-cyber-espionage-units) |
+| [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
 
 ### `The Cyber Underground`
 
