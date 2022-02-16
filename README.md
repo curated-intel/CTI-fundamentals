@@ -32,6 +32,7 @@ A collection of papers, blogs, and resources that make up the quintessential asp
 | [Freddy M](https://no.linkedin.com/in/fmurre?trk=pulse-article_main-author-card) | The Intelligence Architecture Map is based on interviews of industry experts, former intelligence practitioners, and Freddy's personal views. It represents a logical and meaningful way of how different aspects of producing intelligence should be put together. | [intelligence-architecture-map-freddy-m](https://www.linkedin.com/pulse/intelligence-architecture-map-freddy-m/) |
 | [Grace Chi](https://twitter.com/euphoricfall) | IS SHARING CARING? A comprehensive study on the current cyber threat intelligence inter-personal and social networking practices, results, and attitudes | [ctinetworkingreport2022.pdf](https://pulsedive.com/downloads/ctinetworkingreport2022.pdf) |
 | [Institute for Software Research School of Computer Science Carnegie Mellon University](https://isri.cmu.edu/) | A paper from the Carnegie Mellon ISR on the life-cycle of an advanced persistent threat group attack, from reconnaissance to data exfiltration | [CMU-ISR-17-100.pdf](http://reports-archive.adm.cs.cmu.edu/anon/isr2017/CMU-ISR-17-100.pdf)|
+| [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) | The OODA loop is the cycle observe–orient–decide–act. The approach explains how agility can overcome raw power in dealing with human opponents. It is especially applicable to cyber security and cyberwarfare. | [OODA_Loop.html](https://en.wikipedia.org/wiki/OODA_loop) |
 
 ### `Adversary Intelligence`
 
