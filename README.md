@@ -1,21 +1,4 @@
-                                                                                
-                                                                                
-                               %%%%%#########%%%%%                              
-                        ###%%%%##                 &%%%                          
-                   (#####%%          /.. .,,,,&      .%%                        
-               //((###            . ...**//((... ,     %%                       
-           ***//((               (..***//((...*#,,,     %%                      
-       *******                  #(#./((((#......,%#(     %                      
-        *****                   @%##....#%%%%%,,%#((     %                      
-          ****//                 %%%%,,%%%%%%%**/((     #                       
-             *//((#*               %%,%%%%%##((((      %                        
-                ((####%               ,((((((/                                  
-                   #####%%#,                                         **         
-                       ##%%%#####                              //**             
-                            %%%%#########%.          ######((/                  
-                                   %%%%%#%%%%%%%%%#####                         
-                                   
-                                  by Curated Intelligence                                             
+![logo](https://github.com/curated-intel/CTI-fundamentals/blob/main/ci-logo.png)                                      
 
 # CTI-fundamentals
 A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence 
