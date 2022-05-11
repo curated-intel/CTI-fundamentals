@@ -32,6 +32,7 @@ A collection of essential resources related cyber threat intelligence theory
 | --- | --- | --- |
 | [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | This report describes the fundamental characteristics of cybercriminal black markets and how they have grown into their current state in order to give insight into how their existence can harm the information security environment | [RAND_RR610.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RR600/RR610/RAND_RR610.pdf) |
 | [@Bank_Security](https://twitter.com/Bank_Security) | HUMINT activities during undercover operations are fundamental as a part of Cyber Intelligence activities. This guide shares insights how someone could engage Threat Actors during undercover operations in the cybercriminal underground | [cyber-intelligence-humint-operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) |
+| Microsoft | Microsoft's blog on the "cybercrime gig economy" describes the intricacies of Ransomware-as-a-Service (RaaS) and RaaS affiliate operations | [microsoft.com](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0504) | 
 
 ### `Vulnerability Intelligence`
 
