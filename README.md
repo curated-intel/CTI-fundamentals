@@ -28,6 +28,7 @@ A collection of essential resources related cyber threat intelligence theory
 | [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
 | [Sarah Jones](https://twitter.com/sj94356) | A Brief History of Attribution Mistakes - analyse the mistakes made by others so that you do not repeat them | [securityandtechnology.org](https://securityandtechnology.org/wp-content/uploads/2020/07/summit_archive_1548105619.pdf) |
 | [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | Case Study: Applying SWARM to Predict Phishing Campaigns from the North Korea–Nexus Kimsuky Threat Actor | [RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf) |
+| [Anastasios Pingios](https://twitter.com/xorlgr) | Intelligence Agency and Security Services Internal Structuring | [xorl.wordpress.com](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Adversary%20Intelligence.md#intelligence-agency-and-security-services-internal-structure) |
 
 ### `The Cyber Underground`
 
