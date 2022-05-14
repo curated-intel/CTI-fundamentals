@@ -17,6 +17,7 @@ A collection of essential resources related cyber threat intelligence theory
 | [Grace Chi](https://twitter.com/euphoricfall) | IS SHARING CARING? A comprehensive study on the current cyber threat intelligence inter-personal and social networking practices, results, and attitudes | [ctinetworkingreport2022.pdf](https://pulsedive.com/downloads/ctinetworkingreport2022.pdf) |
 | [Institute for Software Research School of Computer Science Carnegie Mellon University](https://isri.cmu.edu/) | A paper from the Carnegie Mellon ISR on the life-cycle of an advanced persistent threat group attack, from reconnaissance to data exfiltration | [CMU-ISR-17-100.pdf](http://reports-archive.adm.cs.cmu.edu/anon/isr2017/CMU-ISR-17-100.pdf)|
 | [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) | The OODA loop is the cycle observe–orient–decide–act. The approach explains how agility can overcome raw power in dealing with human opponents. It is especially applicable to cyber security and cyberwarfare. | [OODA_Loop.html](https://en.wikipedia.org/wiki/OODA_loop) |
+| [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | RAND’s Four-Step Scalable Warning and Resilience Model | [RRA382-1/RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf) |
 
 ### `Adversary Intelligence`
 
@@ -26,6 +27,7 @@ A collection of essential resources related cyber threat intelligence theory
 | [CrowdStrike](https://www.crowdstrike.com/) | CrowdStrike's "breakout time" report provided an illuminating look at which actors operate the fastest within networks they have gained access to, and how effective and rapid the defenders have to be to defeat some of the most capable adversaries | [crowdstrike.com](https://www.crowdstrike.com/blog/first-ever-adversary-ranking-in-2019-global-threat-report-highlights-the-importance-of-speed/) | 
 | [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
 | [Sarah Jones](https://twitter.com/sj94356) | A Brief History of Attribution Mistakes - analyse the mistakes made by others so that you do not repeat them | [securityandtechnology.org](https://securityandtechnology.org/wp-content/uploads/2020/07/summit_archive_1548105619.pdf) |
+| [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | Case Study: Applying SWARM to Predict Phishing Campaigns from the North Korea–Nexus Kimsuky Threat Actor | [RRA382-1/RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf) |
 
 ### `The Cyber Underground`
 
