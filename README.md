@@ -21,28 +21,18 @@ A collection of essential resources related cyber threat intelligence theory
 | [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | RAND’s Four-Step Scalable Warning and Resilience Model | [RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf) |
 | [UK National Anti Fraud Network](https://www.nafn.gov.uk/) | Basics of Intelligence Management, including classification, evaluation, dissemination, and the intelligence confidence matrix | [Intelligence%20Management%20Training.pdf](https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf) |
 
-### `Adversary Intelligence`
+### `Practical Threat Intelligence`
 
 | Authour | Description | Resource URL |
 | --- | --- | --- |
 | [Mandiant](https://www.mandiant.com/) | Mandiant's unprecedented report linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). | [mandiant-apt1-report.pdf](https://www.mandiant.com/resources/apt1-exposing-one-of-chinas-cyber-espionage-units) |
 | [CrowdStrike](https://www.crowdstrike.com/) | CrowdStrike's "breakout time" report provided an illuminating look at which actors operate the fastest within networks they have gained access to, and how effective and rapid the defenders have to be to defeat some of the most capable adversaries | [crowdstrike.com](https://www.crowdstrike.com/blog/first-ever-adversary-ranking-in-2019-global-threat-report-highlights-the-importance-of-speed/) | 
-| [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
+| [Trevor Giffen](https://twitter.com/TrevorGiffen) | The Initial Access Broker Landscape | [curatedintel.org](https://www.curatedintel.org/2021/10/initial-access-broker-landscape.html) |
+| [William Thomas](https://twitter.com/BushidoToken) | Threat Group Naming Schemes In Cyber Threat Intelligence | [curatedintel.org](https://www.curatedintel.org/2022/05/threat-group-naming-schemes-in-cyber.html) |
 | [Sarah Jones](https://twitter.com/sj94356) | A Brief History of Attribution Mistakes - analyse the mistakes made by others so that you do not repeat them | [securityandtechnology.org](https://securityandtechnology.org/wp-content/uploads/2020/07/summit_archive_1548105619.pdf) |
 | [Anastasios Pingios](https://twitter.com/xorlgr) | Intelligence Agency and Security Services Internal Structuring | [xorl.wordpress.com](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Adversary%20Intelligence.md#intelligence-agency-and-security-services-internal-structure) |
-| [William Thomas](https://twitter.com/BushidoToken) | Threat Group Naming Schemes In Cyber Threat Intelligence | [curatedintel.org](https://www.curatedintel.org/2022/05/threat-group-naming-schemes-in-cyber.html) |
-
-### `The Cyber Underground`
-
-| Authour | Description | Resource URL |
-| --- | --- | --- |
 | [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | This report describes the fundamental characteristics of cybercriminal black markets and how they have grown into their current state in order to give insight into how their existence can harm the information security environment | [RAND_RR610.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RR600/RR610/RAND_RR610.pdf) |
 | [@Bank_Security](https://twitter.com/Bank_Security) | HUMINT activities during undercover operations are fundamental as a part of Cyber Intelligence activities. This guide shares insights how someone could engage Threat Actors during undercover operations in the cybercriminal underground | [cyber-intelligence-humint-operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) |
 | [MSTIC](https://twitter.com/MsftSecIntel) | The "cybercrime gig economy" describes the intricacies of Ransomware-as-a-Service (RaaS) and RaaS affiliate operations | [microsoft.com](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/) | 
-| [Trevor Giffen](https://twitter.com/TrevorGiffen) | The Initial Access Broker Landscape | [curatedintel.org](https://www.curatedintel.org/2021/10/initial-access-broker-landscape.html) |
-
-### `Vulnerability Intelligence`
-
-| Authour | Description | Resource URL |
-| --- | --- | --- |
 | [Google Project Zero](https://twitter.com/ProjectZeroBugs) | GP0 has compiled a spreadsheet of 0day vulnerabilities leveraged in the wild by threat actors before the vendors were aware of them | [0days "In the Wild"](https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view)|
+| [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
