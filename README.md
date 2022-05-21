@@ -19,6 +19,7 @@ A collection of essential resources related cyber threat intelligence theory
 | [Institute for Software Research School of Computer Science Carnegie Mellon University](https://isri.cmu.edu/) | A paper from the Carnegie Mellon ISR on the life-cycle of an advanced persistent threat group attack, from reconnaissance to data exfiltration | [CMU-ISR-17-100.pdf](http://reports-archive.adm.cs.cmu.edu/anon/isr2017/CMU-ISR-17-100.pdf)|
 | [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) | The OODA loop is the cycle observe–orient–decide–act. The approach explains how agility can overcome raw power in dealing with human opponents. It is especially applicable to cyber security and cyberwarfare. | [OODA_Loop.html](https://en.wikipedia.org/wiki/OODA_loop) |
 | [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) | RAND’s Four-Step Scalable Warning and Resilience Model | [RAND_RRA382-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA300/RRA382-1/RAND_RRA382-1.pdf) |
+| [UK National Anti Fraud Network](https://www.nafn.gov.uk/) | Basics of Intelligence Management, including classification, evaluation, dissemination, and the intelligence confidence matrix | [Intelligence%20Management%20Training.pdf](https://www.local.gov.uk/sites/default/files/documents/Intelligence%20Management%20Training.pdf) |
 
 ### `Adversary Intelligence`
 
