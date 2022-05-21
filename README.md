@@ -38,5 +38,8 @@ A collection of essential resources related cyber threat intelligence theory
 | [Katie Nickels](https://twitter.com/likethecoins)| Analysts have compiled a list of court documents issued by the Department of Justice (DOJ) specifically regarding various threat actor charges and indictments, from APT group members to ransomware operators | [Legal Documents of Interest to CTI Analysts](https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875) |
 
 ### `Enterprise Threat Intelligence`
+
+| Authour | Description | Resource URL |
+| --- | --- | --- |
 | [Recorded Future](https://recordedfuture.com)| Recorded Future periodically updates a handbook detailing their vendor-biased roadmap for building an intelligence-led security program. This is useful for understanding what threat intelligence capabilities may need to be integrated with an enterprise CTI program | [The Intelligence Handbook: Fourth Edition](https://go.recordedfuture.com/hubfs/ebooks/intelligence-handbook-fourth-edition.pdf) |
 | [Recorded Future](https://recordedfuture.com)| Recorded Future maintains a handbook detailing their vendor-biased playbooks for responding to typical CTI-type detections within an enterprise CTI program. This is useful for understanding what threat intelligence response cases may look like in an enterprise CTI program | [The Intelligence Playbook: Practical Applications Across the Enterprise](https://go.recordedfuture.com/hubfs/The_Intelligence_Playbook_Practical_Applications_Across_the_Enterprise.pdf) |
