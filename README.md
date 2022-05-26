@@ -1,7 +1,7 @@
 ![logo](https://github.com/curated-intel/CTI-fundamentals/blob/main/ci-logo.png)                                      
 
 # CTI Fundamentals
-A collection of essential resources related cyber threat intelligence theory
+A collection of essential resources related to cyber threat intelligence theory.
 
 ### `CTI Theory`
 
