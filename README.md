@@ -5,7 +5,7 @@ A collection of essential resources related cyber threat intelligence theory
 
 ### `CTI Theory`
 
-| Authour | Description | Resource URL |
+| Author | Description | Resource URL |
 | --- | --- | --- |
 | [The US Central Intelligence Agency](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)| The traditional Intelligence cycle describes how intelligence is ideally processed in civilian and military intelligence agencies, and law enforcement organizations. | [the-intelligence-cycle.html](https://web.archive.org/web/20200508151219/https://www.cia.gov/kids-page/6-12th-grade/who-we-are-what-we-do/the-intelligence-cycle.html)|
 | [The US Central Intelligence Agency](https://en.wikipedia.org/wiki/Central_Intelligence_Agency) | This primer highlights structured analytic techniques—some widely used in the private sector and academia, some unique to the intelligence profession | [Tradecraft-Primer-apr09.pdf](https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-apr09.pdf) |
@@ -24,7 +24,7 @@ A collection of essential resources related cyber threat intelligence theory
 
 ### `Practical Threat Intelligence`
 
-| Authour | Description | Resource URL |
+| Author | Description | Resource URL |
 | --- | --- | --- |
 | [Mandiant](https://www.mandiant.com/) | Mandiant's unprecedented report linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). | [mandiant-apt1-report.pdf](https://www.mandiant.com/resources/apt1-exposing-one-of-chinas-cyber-espionage-units) |
 | [CrowdStrike](https://www.crowdstrike.com/) | CrowdStrike's "breakout time" report provided an illuminating look at which actors operate the fastest within networks they have gained access to, and how effective and rapid the defenders have to be to defeat some of the most capable adversaries | [crowdstrike.com](https://www.crowdstrike.com/blog/first-ever-adversary-ranking-in-2019-global-threat-report-highlights-the-importance-of-speed/) | 
@@ -40,7 +40,7 @@ A collection of essential resources related cyber threat intelligence theory
 
 ### `Enterprise Threat Intelligence`
 
-| Authour | Description | Resource URL |
+| Author | Description | Resource URL |
 | --- | --- | --- |
 | [Recorded Future](https://recordedfuture.com)| Recorded Future periodically updates a handbook detailing their vendor-biased roadmap for building an intelligence-led security program. This is useful for understanding what threat intelligence capabilities may need to be integrated with an enterprise CTI program | [The Intelligence Handbook: Fourth Edition](https://go.recordedfuture.com/hubfs/ebooks/intelligence-handbook-fourth-edition.pdf) |
 | [Recorded Future](https://recordedfuture.com)| Recorded Future maintains a handbook detailing their vendor-biased playbooks for responding to typical CTI-type detections within an enterprise CTI program. This is useful for understanding what threat intelligence response cases may look like in an enterprise CTI program | [The Intelligence Playbook: Practical Applications Across the Enterprise](https://go.recordedfuture.com/hubfs/The_Intelligence_Playbook_Practical_Applications_Across_the_Enterprise.pdf) |
