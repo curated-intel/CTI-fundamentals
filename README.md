@@ -37,6 +37,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 | MITRE | MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. | [attack.mitre.org](https://attack.mitre.org/) |
 | Mandiant | Mandiant’s depiction of the targeted attack lifecycle illustrates the major phases of a typical intrusion. | [mandiant.com](https://www.mandiant.com/resources/targeted-attack-lifecycle) |
 | [Paul Pols](https://www.linkedin.com/in/paulpols) | The Unified Kill Chain was developed through a hybrid research approach, combining design science with qualitative research methods. The Unified Kill Chain extends and combines existing models, such as Lockheed Martin's Cyber Kill Chain® and MITRE's ATT&CK® | [unifiedkillchain.com](https://www.unifiedkillchain.com/) |
+| Verizon | The VERIS framework uses a common language and a structured, repeatable process, both of which allow organizations to objectively classify security incidents. Used for Verizon's DBIR. | [verizon.com](https://www.verizon.com/about/news/veris-framework-enables-sharing-security-incident-data-across-globe) |
 
 ### `Practical Threat Intelligence`
 
