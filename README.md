@@ -39,6 +39,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 | Mandiant | `The Targeted Attack Lifecycle` - Mandiant’s depiction of the targeted attack lifecycle illustrates the major phases of a typical intrusion. | [mandiant.com](https://www.mandiant.com/resources/targeted-attack-lifecycle) |
 | [Paul Pols](https://www.linkedin.com/in/paulpols) | `The Unified Kill Chain` - was developed through a hybrid research approach, combining design science with qualitative research methods. The Unified Kill Chain extends and combines existing models, such as Lockheed Martin's Cyber Kill Chain® and MITRE's ATT&CK® | [unifiedkillchain.com](https://www.unifiedkillchain.com/) |
 | Verizon | `The VERIS framework` - uses a common language and a structured, repeatable process, both of which allow organizations to objectively classify security incidents. Used for Verizon's DBIR. | [verizon.com](https://www.verizon.com/about/news/veris-framework-enables-sharing-security-incident-data-across-globe) |
+| IBM X-Force | The `Cyberattack Preparation Framework` and the `Cyberattack Execution Framework` - provide a logical flow representative of attacks today and they also incorporate phases not typically included in other frameworks | [ibm.com](https://www.ibm.com/downloads/cas/A27KQP8R) |
 
 ### `Practical Threat Intelligence`
 
