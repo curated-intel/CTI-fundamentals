@@ -44,7 +44,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 | Verizon | `The VERIS framework` - uses a common language and a structured, repeatable process, both of which allow organizations to objectively classify security incidents. Used for Verizon's DBIR. | [verizon.com](https://www.verizon.com/about/news/veris-framework-enables-sharing-security-incident-data-across-globe) |
 | IBM X-Force | `The Cyberattack Preparation Framework` and `The Cyberattack Execution Framework` - provide a logical flow representative of attacks today and they also incorporate phases not typically included in other frameworks | [ibm.com](https://www.ibm.com/downloads/cas/A27KQP8R) |
 
-### `Practical Threat Intelligence`
+### `Threat Intelligence Seminal Research`
 
 | Author | Description | Resource URL |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 | [Intel 471](https://intel471.com) | The CU-GIRH is a baseline tool to assist security professionals and teams in organizing, prioritizing, and producing cyber underground intelligence based on General Intelligence Requirements (GIRs) — a compilation of frequently asked intelligence requirements applicable to the cybercrime underground such as: forums, marketplaces, products, services, and threat actors. Access to the GIR Handbook includes an intelligence planning workbook (templates, samples) | [Cybercrime Underground General Intelligence Requirements Handbook (CU-GIRH)](https://intel471.com/resources/cu-girh-download-request) |
 | [Scott Small](https://twitter.com/IntelScott) | The Ultimate Guide To Cyber Threat Profiling | [Cyber_Threat_Profiling_Ebook.pdf](https://github.com/curated-intel/CTI-fundamentals/blob/main/Archive/Cyber_Threat_Profiling_Ebook.pdf) |
 
-### `Enterprise Threat Intelligence`
+### `Running Enterprise Threat Intelligence Programs`
 
 | Author | Description | Resource URL |
 | --- | --- | --- |
