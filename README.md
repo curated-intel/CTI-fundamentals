@@ -48,6 +48,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 
 | Author | Description | Resource URL |
 | --- | --- | --- |
+| Scott J. Henderson | The Dark Visitor: Inside the World of Chinese Hackers - analysis of the history, ideology, organization, exploits, and political motivations of the Chinese hacker network | [the-dark-visitor-inside-the-world-of-chinese-hackers.pdf](https://github.com/curated-intel/CTI-fundamentals/blob/main/Archive/the-dark-visitor-inside-the-world-of-chinese-hackers.pdf) |
 | [Mandiant](https://www.mandiant.com/) | Mandiant's unprecedented report linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). | [mandiant-apt1-report.pdf](https://www.mandiant.com/resources/apt1-exposing-one-of-chinas-cyber-espionage-units) |
 | [CrowdStrike](https://www.crowdstrike.com/) | CrowdStrike's "breakout time" report provided an illuminating look at which actors operate the fastest within networks they have gained access to, and how effective and rapid the defenders have to be to defeat some of the most capable adversaries | [crowdstrike.com](https://www.crowdstrike.com/blog/first-ever-adversary-ranking-in-2019-global-threat-report-highlights-the-importance-of-speed/) | 
 | [Trevor Giffen](https://twitter.com/TrevorGiffen) | The Initial Access Broker Landscape | [curatedintel.org](https://www.curatedintel.org/2021/10/initial-access-broker-landscape.html) |
