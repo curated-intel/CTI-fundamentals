@@ -66,6 +66,7 @@ A collection of essential resources related to cyber threat intelligence theory.
 | [Intel 471](https://intel471.com) | The CU-GIRH is a baseline tool to assist security professionals and teams in organizing, prioritizing, and producing cyber underground intelligence based on General Intelligence Requirements (GIRs) — a compilation of frequently asked intelligence requirements applicable to the cybercrime underground such as: forums, marketplaces, products, services, and threat actors. Access to the GIR Handbook includes an intelligence planning workbook (templates, samples) | [Cybercrime Underground General Intelligence Requirements Handbook (CU-GIRH)](https://intel471.com/resources/cu-girh-download-request) |
 | [InfoStealers by Hudson Rock](https://www.infostealers.com/) | The all-around Infostealers hub with reports and recent news | [InfoStealers.com](https://www.infostealers.com)
 | [Scott Small](https://twitter.com/IntelScott) | The Ultimate Guide To Cyber Threat Profiling | [Cyber_Threat_Profiling_Ebook.pdf](https://github.com/curated-intel/CTI-fundamentals/blob/main/Archive/Cyber_Threat_Profiling_Ebook.pdf) |
+| Crysys | Territorial Dispute – NSA’s perspective on APT landscape | [crysys.hu](https://static.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf) |
 
 ### `Running Enterprise Threat Intelligence Programs`
 
